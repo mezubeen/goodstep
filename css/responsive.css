@@ -39,7 +39,7 @@
         left: 260px;
     }
     .top_logo a img {
-        max-width: 80px;
+        max-width: 150px;
     }
     .cart > a {
         font-size: 12px;
@@ -144,3 +144,4 @@
         max-width: 120px;
     }
 }
+
