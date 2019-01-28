@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://lucid-bell-80dec3.netlify.com/* https://www.goodstep.in/:splat 301!
